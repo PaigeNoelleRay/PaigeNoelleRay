@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋, I'm Paige
+### I'm a Front-End Developer, UX Designer and Illustrator
+![I'm a Front-End Developer, UX Designer and Illustrator](https://images.unsplash.com/photo-1496715976403-7e36dc43f17b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
-<!--
-**PaigeNoelleRay/PaigeNoelleRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I use my background in psychology to create meaningful human-centered design experiences.  
 
-Here are some ideas to get you started:
+Skills:  JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on projects that nourish my skill set 
+- 🌱 I’m currently learning - Advanced JS 
+- 📫 How to reach me: paigenoelleray@gmail.com 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I love music, creating art, reading, exploring nature my dog, and playing video games.   ​  ​  Some future goals of mine are to learn to snowboard and master playing the piano :) 
 -->
