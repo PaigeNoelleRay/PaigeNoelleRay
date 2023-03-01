@@ -10,4 +10,4 @@ Skills:  JS / HTML / CSS
 - 🌱 I’m currently learning - Advanced JS 
 - 📫 How to reach me: paigenoelleray@gmail.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun facts: I love music, creating art, reading, exploring nature with my dog, and playing video games.   ​  ​  Some future goals of mine are to learn to snowboard and master playing the piano :)
+- ⚡ Fun facts: I love music, creating art, reading, exploring nature with my dog, and playing video games. Some future goals of mine are to learn to snowboard and      master playing the piano :)
