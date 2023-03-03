@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Paige
-### I'm a Front-End Developer, UX Designer and Illustrator
+### I'm a Front-End Developer, UX Designer, and Illustrator
 ![I'm a Front-End Developer, UX Designer and Illustrator](https://images.unsplash.com/photo-1496715976403-7e36dc43f17b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
 #### I use my background in psychology to create meaningful human-centered design experiences.  
